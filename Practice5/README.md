@@ -120,5 +120,8 @@ Commit and push the file main.c created once you completed all the steps of the 
 Record a video of the practice’s functionality and upload it on youtube. The video must contain a short explanation.
 
 ## Conclusion
-
-In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+En esta práctica se utilizó el software de desarrollo MPLAB X IDE de Microchip. El objetivo de esta práctica fue familiarizarnos con el ambiente de desarrollo
+para la programación en C de los microcontrolares de Microchip, en este caso el PIC18 que se estudia en la clase. El programa que se compiló tiene la función de inicializar
+ciertos bits de los puertos A y B. Posteriormente, evalua el valor de la entrada asignada al puerto B para prender o apagar el LED asignado al bit 7 del puerto A. 
+Este ejercicio permite de manera concreta entender la configuración de los puertos y los registros SFR's que se utilizan para ello. 
+El desarrollo de esta práctica fue exitoso y me interesa continuar aprendiendo a utilizar este software para el desarrollo de programas más complejos.
