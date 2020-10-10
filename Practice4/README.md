@@ -64,4 +64,8 @@ Se realizará un screenshoot de cada una de la resolución de cada uno de los pr
 explicando la solución y ejecutandola para validar su comprobación.
 
 ## Conclusion
-En esta sección, deberás añadir las conclusiones, sugerencias y/o problemas de las actividades de laboratorio. 
+Esta práctica fue muy ilustrativa respecto a las funciones básicas que hemos visto en clase del lenguaje C. Sin embargo, en lo personal fue un cuanto difícil
+ya solamente había programado en C# hace algunos años y desde entonces no había realizado código de esta forma. El ejercicio me pareció adecuado pero a mi me hubiera gustado 
+iniciar directamente con MPLAB X IDE ya que es realmente la plataforma en la que nos interesa aprender a desarrollar nuestros programas y considero que a menos de que sean
+funciones muy puntuales, no vamos a realizar multiplicaciones o divisiones con manipulación de bits, por tomar un ejemplo.
+
