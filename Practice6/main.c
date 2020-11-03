@@ -1,6 +1,6 @@
 /*
  * File:   main.c
- * Author: ecaballero
+ * Author: Alan Saucedo
  *
  * Created on 6 de octubre de 2020, 01:25 PM
  */
