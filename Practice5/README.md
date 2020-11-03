@@ -120,6 +120,8 @@ Commit and push the file main.c created once you completed all the steps of the 
 Record a video of the practice’s functionality and upload it on youtube. The video must contain a short explanation.
 https://youtu.be/iKdCSCX8C4I
 
+https://youtu.be/WUV_zFFjJXQ
+
 ## Conclusion
 En esta práctica se utilizó el software de desarrollo MPLAB X IDE de Microchip. El objetivo de esta práctica fue familiarizarnos con el ambiente de desarrollo
 para la programación en C de los microcontrolares de Microchip, en este caso el PIC18 que se estudia en la clase. El programa que se compiló tiene la función de inicializar
