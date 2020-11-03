@@ -1,6 +1,6 @@
 # Practice 6. Parallel Ports (GPIOs)
 
-
+Alan Saucedo A01421445
 ## Objectives
 he   student   will   become   familiar   with   the   basic instructions for configure and operate the Microcontroller input/output ports.
 
