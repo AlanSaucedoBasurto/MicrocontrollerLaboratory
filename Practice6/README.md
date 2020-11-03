@@ -88,7 +88,8 @@ Commit and push the file main.c created once you completed all the steps of the 
 
 ### Demonstration
 Record a video of the practice’s functionality and upload it on youtube. The video must contain a short explanation.
+https://youtu.be/rZ4N3e19dj0
 
 ## Conclusion
-
-In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+A lo largo del curso de Microcontroladores se han visto las especificaciones tecnicas del PIC18. Entre ellas se han estudiado los puertos, las interrupciones y los timers. En esta práctica se pudo realizar la simulación de un juego que requirió el conocimiento de configuración y manipulación de puertos en código C, para representar de manera didáctica el funcionamiento de Whack-a-mole con LEDs conectados a puertos y el efecto visual en los LEDs de Knight Rider. 
+Está práctica me pareció una buena forma de aterrizar los conocimientos adquiridos durante clase en un ejercicio relativamente sencillo pero que requiere la conexión de conceptos que hemos adquirido en este laboratorio a lo largo del semestre. El siguiente paso será realizar el esquemático del circuito en Proteus de modo que podamos interactuar de manera virtual con un equivalente del PIC18 que estamos utilizando.
