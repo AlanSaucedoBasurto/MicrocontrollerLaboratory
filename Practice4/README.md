@@ -62,6 +62,14 @@ En el repositorio de la práctica de github se adjuntará el código fuente (arc
 ### Demonstration
 Se realizará un screenshoot de cada una de la resolución de cada uno de los problemas, además se grabará un video
 explicando la solución y ejecutandola para validar su comprobación.
+https://youtu.be/CSUkX3ZbaUE
+
+https://youtu.be/BG1WKTzEm0M
+
+https://youtu.be/0evBD0igZso
+
+https://youtu.be/5PjCQhTbXeo
+
 
 ## Conclusion
 Esta práctica fue muy ilustrativa respecto a las funciones básicas que hemos visto en clase del lenguaje C. Sin embargo, en lo personal fue un cuanto difícil
