@@ -105,4 +105,11 @@ Commit and push the file main.c created once you completed all the steps of the 
 Record a video of the practice’s functionality and upload it on youtube. The video must contain a short explanation.
 
 ## Conclusion
-In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+En está práctica se implementó la lectura de un Keypad 4x4 utilizando como recurso de lectura y control para la activación de columnas un solo puerto digital. 
+Este fue un tema cubierto en la clase teórica lo cuál facilitó el entendimiento del problema y con ello se pudo implementar una solución simple, estructurada y legible.
+Se cumplió con el objetivo de esta práctica hasta el punto de la implementación del código en MPLAB X IDE, sin embargo no se pudo simular su operación en Proteus 
+por la falta de licencias del mismo software. No obstante, considero que se cubrió el objetivo principal de la práctica ya que la conexión a Proteus es una validación
+más visual e interactiva de lo que está ocurriendo en el código.
+
+Respecto a este laboratorio, considero que falto mucha más preparación de la estrucutra que este iba a tener. Si bien la situación es complicada para todos, es
+el deber de los responsables del lab preparar de la mejor manera y anticipadamente el contenido de este. 
