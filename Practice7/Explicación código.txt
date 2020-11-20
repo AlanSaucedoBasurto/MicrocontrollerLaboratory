@@ -1,0 +1,20 @@
+El código main de este programa inicia con la configuración de los puertos 
+B y D a utilizar. Para el puerto B, se configuran los pines como digitales, de los
+cuales el nibble superior (o los cuatro bits más significantes) son entradas
+y el nibble inferior son salidas. Para el puerto D, que se encargará de prender los 
+LED's, se configura el puerto completo como salidas digitales. De igual forma, se
+inicializa la variable columnas con el valor de 0. 
+
+Se entra en un ciclo while que se ejecutará continuamente. Dentro de este ciclo 
+el primer paso es leer el valor de columnas e incrementarlo en uno. Después, se
+revisa mediante un switch el valor de columnas de modo que se active la columna 
+correspondiente del Keypad 4x4. Inmediatamente, se procede a leer el valor del puerto B
+de modo que, en caso de que se haya presionado una tecla, se cumpla una de las
+condiciones y se realice un corrimiento a la izquierda de los cuatro bits menos
+significativos del puerto D y mediante un "or" se asigne el valor de la tecla 
+presionada a este mismo puerto.
+
+En el caso de que se presione o no una tecla dentro de la iteración del ciclo while
+actual, el código del ciclo while se volverá a ejecutar y podrá leer del puerto B
+y escribir en el puerto D el siguiente valor de la tecla correspondiente. 
+
