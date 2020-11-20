@@ -104,6 +104,8 @@ Commit and push the file main.c created once you completed all the steps of the 
 ### Demonstration
 Record a video of the practice’s functionality and upload it on youtube. The video must contain a short explanation.
 
+https://youtu.be/uXdQqWMziq8
+
 ## Conclusion
 En está práctica se implementó la lectura de un Keypad 4x4 utilizando como recurso de lectura y control para la activación de columnas un solo puerto digital. 
 Este fue un tema cubierto en la clase teórica lo cuál facilitó el entendimiento del problema y con ello se pudo implementar una solución simple, estructurada y legible.
