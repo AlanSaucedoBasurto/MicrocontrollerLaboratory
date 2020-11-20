@@ -1,0 +1,6 @@
+Los problemas presentados para esta práctica no fueron muchos. Sin embargo, lo
+complicado fue encontrar una manera clara y estructurada de escribir el código. 
+Para esto se tomó la decisión de utilizar un switch para la activación de las
+columnas ya que solo son cuatro, e if's para evaluar la tecla presionada y poder
+incluir de manera secuencial todas las opciones posibles y sus correspondientes 
+instrucciones a ejecutar.
